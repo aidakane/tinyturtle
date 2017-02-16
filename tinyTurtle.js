@@ -1,4 +1,4 @@
- TinyTurtle.apply(window); 
+
 
 // tinyTurtle.js
 // 2013-10-11
